@@ -108,7 +108,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.2)
   execjs
-  jquery-rails (= 2.0.0)
+  jquery-rails
   rails (= 3.2.7)
   sass-rails (~> 3.2.4)
   sqlite3 (= 1.3.5)
